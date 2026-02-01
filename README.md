@@ -1,4 +1,4 @@
-# E-Commerce Backend System
+# Inventory-Order-Management-Springboot
 
 A production-style backend application built using Java and Spring Boot,
 designed to manage e-commerce operations using RESTful APIs and a layered architecture.
